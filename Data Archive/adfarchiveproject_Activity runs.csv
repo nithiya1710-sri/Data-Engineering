@@ -1,0 +1,7 @@
+"Activity name","Activity status","Error","Activity type","Run start","Duration","Integration runtime","User properties","Activity run ID","Log"
+"Logging_Framework","Succeeded","","DatabricksNotebook","5/20/2026, 12:20:20 PM","37s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","36f772da-9b21-4d04-8a2b-a9d8de7c39b2",""
+"Purge_Process","Succeeded","","DatabricksNotebook","5/20/2026, 12:17:56 PM","2m 23s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","846e8b65-4626-42eb-b720-1969a0d3a570",""
+"Archive_Process","Succeeded","","DatabricksNotebook","5/20/2026, 12:17:01 PM","53s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","669cf836-23ea-4d94-987d-2670cc7daf35",""
+"Gold_Layer","Succeeded","","DatabricksNotebook","5/20/2026, 12:16:09 PM","51s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","6638e65a-f794-40d7-b86d-29d7266a8a1a",""
+"Silver_Transform","Succeeded","","DatabricksNotebook","5/20/2026, 12:15:16 PM","52s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","03dbc4ab-d151-4c73-8e2a-3a1e982728e6",""
+"Bronze_Load","Succeeded","","DatabricksNotebook","5/20/2026, 12:13:38 PM","1m 37s","AutoResolveIntegrationRuntime (Southeast Asia)","{}","cf86debc-d0ca-4bab-8285-fe57cdd6d41d",""
