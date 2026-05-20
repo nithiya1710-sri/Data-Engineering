@@ -1,6 +1,0 @@
-selected resource name:		archive_pipeline
-selected resource type:		pipeline
-factory name:			adfarchiveproject
-factory location:		southeastasia
-subscription id:		5567b359-fcda-41d7-bd3a-df736aea35af
-time of download (UTC):		Wed, 20 May 2026 07:24:51 GMT
